@@ -40,4 +40,4 @@ rs.config = (obj) !->
       catch
          throw Error("Absolute path to space '#{key}': '#{space}' cannot be resolved. Detailed message:\n " + e.message)
 
-   return this
+   return rs
