@@ -16,7 +16,7 @@ require('~/.app/assets/tmp/tiles/table');
 require('tmp::tiles/table');
 ```
 
-## How to use it:
+## How to use:
 #### Setup
 One time ``require`` and setup:
 ```javascript
@@ -34,7 +34,7 @@ var requireSpaces = require('require-spaces');
 
 // This takes an object with the pairs "space-name": "space-path"
 requireSpaces.config({
-   base: 'foo/bsr',
+   base: 'foo/bSr',
    tmp: '~/.app/assets/tmp'
 });
 
