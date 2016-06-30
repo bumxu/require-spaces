@@ -1,7 +1,7 @@
 {
    "name": "require-spaces",
    "description": "An extension for node.js require, to use custom path aliases when require scripts.",
-   "version": "0.1.1",
+   "version": "1.1.2",
    "author": {
       "name": "Juande Martos"
    },
