@@ -1,0 +1,17 @@
+{
+   "name": "require-spaces",
+   "description": "An extension for node.js require, to use custom path aliases when require scripts.",
+   "version": "0.1.0",
+   "author": {
+      "name": "Juande Martos"
+   },
+   "main": "./lib/main.js",
+   "devDependencies": {
+      "livescript": "^1.5.0"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/bumxu/require-spaces.git"
+   },
+   "license": "MIT"
+}
